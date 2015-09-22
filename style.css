@@ -52,7 +52,7 @@ hr {
       transition: all .55s ease-out; 
 /*      border-radius: 5px 5px 0px 0px;*/
       padding: 0.9rem 1rem 0.75rem;
-      font-size: 4rem;
+      font-size: 4vw;
       color: #fff;
       text-transform: uppercase;
       display: block;
